@@ -1,2 +1,3 @@
 hello 
 git fetch testng
+git pull testng
